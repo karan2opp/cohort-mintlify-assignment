@@ -471,7 +471,7 @@ footer{
   flex-direction: column;
   align-items: center;
 }
-footer div{
+footer .border{
     width: 910px;
     border: 1px solid #eaeaea;
 
