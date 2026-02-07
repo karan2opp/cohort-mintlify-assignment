@@ -40,3 +40,35 @@ No frameworks, no JavaScript — purely frontend layout practice.
 📂 Folder Structure
 
 <img width="296" height="265" alt="image" src="https://github.com/user-attachments/assets/6cff8445-96a2-4bfa-b0cb-0326725fcd44" />
+
+🎨 Design Concepts Used
+
+Flexbox
+
+CSS Grid
+
+Glassmorphism (backdrop-filter + transparency)
+
+Gradient buttons
+
+Rounded UI (border-radius: 999px)
+
+Structured layout containers
+
+Section-based architecture
+
+📌 Learning Goals
+
+This project helped practice:
+
+Pixel-perfect UI cloning
+
+Layout structuring
+
+Advanced CSS styling
+
+Positioning (absolute/relative)
+
+Responsive section alignment
+
+Clean code organization
